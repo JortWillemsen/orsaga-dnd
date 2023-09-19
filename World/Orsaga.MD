@@ -2,4 +2,8 @@
 
 A country hidden between a harsh mountain range. It lies in a deep valley that scales from north to south with only two entryways at each end of the valley. The country is the only passage trough the [Jégheyd mountain range](Jégheyd.MD).
 
-With the upper part of the country covered in snow the route to the northern lands of [Isvind](Isvind.MD) is almost impossible and only attempted between june and august.
+With the upper part of the country covered in snow the route to the northern lands of [Isvind](Isvind.MD) is almost impossible and can only attempted between february and march when the [Viata river](./ViataRiver.MD) is fully frozen solid and a natural passageway appears.
+
+Following the [Viata river](./ViataRiver.MD) to the south, lies an ocean expanding greatly past the mountains. If you look far enough across the waters, a strangely permanent fog can be spotted. It doesn't move and only highly skilled sailors can navigate the so called [Aeternum Deep](./Oceans/Aeternum.MD) through to the [Isles of the lost Mist](./IlsesOfTheLostMist.MD).
+
+About 20 kilometers inward of the Aeternum Deep the capital: [Oras](./Cities/Oras.MD) lies on a plane atop a hill overlooking the [Aeternum Deep](./Oceans/Aeternum.MD). Oras is branded by its 6 main stone clock towers each controlled by one of the six factions that created the city in harmony for they believe that time may not be controlled by one mortal but is instead shared by all factions and kept by the two gods of Orsaga: The Androsphinx and Gynosphinx. Mythicized creatures,seldom seen. The last sighting was over 200 years ago and the factions are in scramble for the time is slipping away and every mortal thinks only they have it correct.
