@@ -26,9 +26,9 @@ Rúd: *What do you mean Bobby?*
 Bobby: *He was guarding the sheep and I saw the gate open and now hes gone!*
 
 
-
+Rúd knows someone strange has been coming here to eat but never to drink, he finds that strange. The stranger never gave his name and exclusively orders meat. He has rundown clothes and a big coat covering most of his body and gloves to cover his hands.
 
 Neighbor = Somsed
 Somsed saw Bob guarding the sheep and thought he was nuts doing this in the middle of the night when it was raining. Woke up and heard some growling, stood up and saw a light fleeing through the forest.
 
-Farkas = Weerwolf
+Farkas = Werewolve
