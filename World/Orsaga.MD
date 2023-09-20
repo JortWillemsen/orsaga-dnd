@@ -9,7 +9,3 @@ Following the [Viata river](./ViataRiver.MD) to the south, lies an ocean expandi
 About 20 kilometers inward of the Aeternum Deep the capital: [Oras](./Cities/Oras.MD) lies on a plane atop a hill overlooking the [Aeternum Deep](./Oceans/Aeternum.MD). A highly cultured city revered for its knowledge and wisdom with universities and tinkerers scattering the narrow alleyways. Oras is branded by its 6 main stone clock towers each controlled by one of the six factions that created the city in harmony for they believe that time may not be controlled by one mortal but is instead shared by all factions and kept by the two gods of Orsaga: The Androsphinx and Gynosphinx. Mythicized creatures, seldom seen. The last sighting was over 200 years ago and the factions are in scramble for the time is slipping away and every faction thinks only they have it correct.
 
 Where Oras is highly civilized you find yourself amidst a more rural area of Orsaga about half way along the Viata river: The town of Elrejt 214 a.s (after sighting). Elrejt is a stangely rich town were sheep farms are the prominent sight to behold and people are happy and fulfilled.
-
-It is a gloomy afternoon in july. The aspen trees are starting to turn yellow. The sun is setting in the east over the mountains as it gets cold and dark quick this high up in the hills. To find comfort in the warmth you book a room in the Călător Inn.
-
-It is quite busy in the tavern. Some groups of halfling and human farmers are happy because the lambing season has just come to an end.
