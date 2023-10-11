@@ -32,3 +32,13 @@ Neighbor = Somsed
 Somsed saw Bob guarding the sheep and thought he was nuts doing this in the middle of the night when it was raining. Woke up and heard some growling, stood up and saw a light fleeing through the forest.
 
 Farkas = Werewolve
+
+Farkas HP = 11
+
+Barxt   - 21
+Drakis  - 20
+Tane    - 17 
+Galileo - 14 
+Farkas  - 14
+
+
